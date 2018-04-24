@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1063928317953",
+    "firebase_url": "https://bitm2-25217.firebaseio.com",
+    "project_id": "bitm2-25217",
+    "storage_bucket": "bitm2-25217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063928317953:android:461463575b65ddf7",
+        "android_client_info": {
+          "package_name": "com.bitm.sagar.bitm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063928317953-8g0d0iurvsto5tai13mkqmbqm3a3ff4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitm.sagar.bitm",
+            "certificate_hash": "fb01dbc12fe43f9ba3767d2c70bc38c66eacce1c"
+          }
+        },
+        {
+          "client_id": "1063928317953-4n4s5fero5rkgupcmd3ioacr4ursrp93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC622ShA3qasFZhx8Z1PBeDzuXKE0yY07w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063928317953-4n4s5fero5rkgupcmd3ioacr4ursrp93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
